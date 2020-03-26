@@ -1,0 +1,13 @@
+li:nth-child(9n+3){
+    color: red;
+}
+
+p::first-letter{
+    font-family: cursive;
+    font-size: 36px;
+}
+
+p::first-line{
+    color: green;
+    font-weight: 900;
+}

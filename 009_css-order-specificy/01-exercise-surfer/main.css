@@ -1,0 +1,42 @@
+html {
+    background-color: #004fa5;
+}
+
+img{
+    display: block;
+    width: 350px;
+    border-radius: 50%;
+    margin: 0 auto;
+    border: 15px groove #ffcd00;
+}
+
+body {
+    border: 5px solid black;
+    width: 60%;
+    /*height: 1048px;*/
+    margin: 0 auto;
+    background-color: #00af57;
+
+}
+
+div{
+    margin: 10px;
+}
+
+p{
+    margin-top: 5px;
+}
+
+.HeaderOne{
+    margin-bottom: 5px;
+    font-size: 26px;
+    font-weight: 100;
+    color: blue;
+}
+
+.HeaderTwo{
+    margin-bottom: 5px;
+    font-size: 26px;
+    font-weight: 100;
+    color: darkred;
+}

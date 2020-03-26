@@ -1,0 +1,19 @@
+/*Live Happy*/
+/*Link Visited Hover Active*/
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: cornflowerblue;
+}
+
+a:hover{
+    color: orange;
+    cursor: pointer;
+}
+
+a:active{
+    color: red;
+}

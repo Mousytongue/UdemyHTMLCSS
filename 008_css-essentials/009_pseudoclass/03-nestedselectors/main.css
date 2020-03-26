@@ -1,0 +1,16 @@
+
+body{
+    font-size: 36px;
+    text-align: center;
+    padding-top: 36px;
+}
+
+/*Selects all the p tags, that are nested inside a div*/
+/*div p{*/
+/*    color:red;*/
+/*}*/
+
+/*selects all the p tags that are the immediate child of div*/
+div > p{
+    color:red;
+}

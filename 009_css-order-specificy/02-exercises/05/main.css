@@ -1,0 +1,12 @@
+p{
+    width: 40%;
+}
+
+p:first-letter{
+    font-family: cursive;
+    color: darkred;
+}
+
+p:first-line{
+    color: red;
+}
