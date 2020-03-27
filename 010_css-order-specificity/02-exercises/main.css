@@ -1,0 +1,45 @@
+/*01*/
+.Emphasize {
+    color: red;
+}
+#RockAndRoll {
+    color: black;
+}
+/*Rock and roll ID would win out, value :100 vs 10*/
+
+/*02*/
+h1{
+    color: red;
+}
+#RockAndRoll {
+    color: black;
+}
+/* rock and roll would win, value: 100 vs 1*/
+
+/*03*/
+h1{
+    color:red;
+}
+.Emphasize{
+    color:black;
+}
+/*emphasize would win, value 10 vs 1*/
+
+
+/*04*/
+h1{
+    color: red;
+}
+[target]{
+    color:blue;
+}
+/*attribute(10) vs element(1), color will be blue, attribute wins*/
+
+/*05*/
+.Emphasize{
+    color:red;
+}
+[target]{
+    color:blue;
+}
+/*class vs attribute, both are 10, the second will win due to order. color blue*/
