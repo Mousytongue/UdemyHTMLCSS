@@ -1,0 +1,24 @@
+.DivBlock{
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 30%;
+    display: inline-block;
+}
+
+.DivBlock:nth-child(4n){
+    background-color: green;
+}
+
+.DivBlock:nth-child(4n+1){
+    background-color: red;
+}
+
+.DivBlock:nth-child(4n+2){
+    background-color: blue;
+}
+
+.DivBlock:nth-child(4n+3){
+    background-color: yellow;
+}
+
