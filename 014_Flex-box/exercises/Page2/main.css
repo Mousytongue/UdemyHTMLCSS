@@ -1,5 +1,14 @@
 section{
     display:flex;
 
-    
+    flex-flow: column wrap-reverse;
+}
+
+
+div{
+    width: 200px;
+    height: 100px;
+    background-color: grey;
+    border: 2px solid black;
+    margin: 10px;
 }

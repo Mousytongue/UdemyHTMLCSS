@@ -1,0 +1,19 @@
+
+#AsideOne{
+    width:15%;
+    order:2;
+}
+
+#AsideTwo{
+    width:15%;
+    order:4;
+}
+
+article{
+    width:70%;
+    order:3;
+}
+
+footer{
+    order:5;
+}

@@ -1,0 +1,9 @@
+.c2, .c3{
+    order:3;
+    width: 50%;
+}
+
+.c4, .c5, .c6, .c7{
+    order:2;
+    width: 25%;
+}

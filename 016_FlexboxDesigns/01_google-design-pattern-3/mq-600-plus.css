@@ -1,14 +1,13 @@
 .c1{
-    width: 40%;
-    order: 2
+    width: 30%;
 }
 
-.c2{
-    width: 60%;
-    order: 1;
+.c4{
+    display: flex;
+    flex-flow: column;
+    width: 70%;
 }
 
-.c3{
+.c2, .c3{
     width: 100%;
-    order: 3;
 }

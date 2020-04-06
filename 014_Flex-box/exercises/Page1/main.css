@@ -1,5 +1,21 @@
 section{
     display:flex;
 
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: space-between;
+}
 
+
+div{
+    width: 200px;
+    height: 100px;
+    background-color: grey;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+div:nth-child(3n){
+    background-color: red;
+    margin:50px;
 }

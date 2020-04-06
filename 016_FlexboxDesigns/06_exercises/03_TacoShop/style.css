@@ -1,0 +1,15 @@
+nav, main{
+    border: 2px solid red;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    padding: 10px;
+}
+
+section{
+    padding:20px;
+}

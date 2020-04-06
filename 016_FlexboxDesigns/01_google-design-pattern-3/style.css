@@ -9,3 +9,9 @@
 .c3{
     background-color: #b1d1fa;
 }
+
+.c4{
+    border: 2px solid red;
+    box-sizing: border-box;
+    background-color: #b1d1fa;
+}

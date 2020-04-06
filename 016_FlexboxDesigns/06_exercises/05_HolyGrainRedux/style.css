@@ -1,0 +1,7 @@
+header, nav, article, aside, footer{
+    background-color: #ffefb8;
+    padding: 20px;
+    border: 2px solid black;
+    text-align: center;
+    width: 100%;
+}

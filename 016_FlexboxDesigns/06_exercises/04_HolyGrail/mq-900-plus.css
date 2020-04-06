@@ -1,0 +1,17 @@
+article{
+    width:70%;
+    order: 3;
+}
+
+aside{
+    width: 15%;
+    order: 2;
+}
+
+aside:nth-child(2n){
+    order: 4;
+}
+
+footer{
+    order: 5;
+}

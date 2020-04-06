@@ -1,0 +1,37 @@
+#SiteHeader{
+    height: 300px;
+    width: 70%;
+    background-image: url("img/xray_chest.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+nav{
+    width: 300px;
+}
+
+li{
+    border: 2px dotted pink;
+    display: inline-block;
+}
+
+a{
+    /*display: inline-block;*/
+}
+
+#MainHeader{
+    /*box-sizing: border-box;*/
+    height: 150px;
+    width: 300px;
+    display: inline-block;
+}
+
+#MainNav{
+    /*box-sizing: border-box;*/
+    width: 300px;
+    height: 150px;
+    /*display: inline-block;*/
+}

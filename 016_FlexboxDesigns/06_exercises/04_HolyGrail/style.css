@@ -1,0 +1,26 @@
+header, article, aside, footer{
+    padding: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+header{
+    background-color: red;
+}
+
+article{
+    text-align: start;
+    background-color: skyblue;
+}
+
+aside{
+    background-color: yellow;
+}
+
+aside:nth-child(2n){
+    background-color: hotpink;
+}
+
+footer{
+    background-color: lightgreen;
+}

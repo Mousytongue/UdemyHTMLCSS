@@ -1,0 +1,22 @@
+
+ul{
+    list-style: none;
+    background-color: #00bdff;
+}
+
+a{
+    padding: 20px 0;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    border-top: 1px solid white;
+    border-bottom: 1px solid blue;
+}
+
+a:hover{
+    color: royalblue;
+}
+
+a:last-child{
+    border-bottom: none;
+}
